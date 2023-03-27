@@ -1,2 +1,1 @@
-autobiography
-大家都来写。
+our autobiography.
